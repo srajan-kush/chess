@@ -20,5 +20,5 @@ This is a simple chess game developed in C++, featuring various functionalities 
 
 ## Screenshots
 
-Attach a screenshot of the game board frame here.
+Attach a screenshot of the game board frame here.<br>
 <img src = "https://github.com/srajan-kush/chess/blob/main/screenshots/board.png"></img>
