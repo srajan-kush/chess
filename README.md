@@ -36,4 +36,4 @@ The fifty-move draw rule states that if both players make 50 consecutive moves w
 ## Screenshots
 
 Attach a screenshot of the game board frame here.
-<img src=""></img>
+<img src="https://github.com/srajan-kush/chess/blob/main/screenshots/board.png"></img>
